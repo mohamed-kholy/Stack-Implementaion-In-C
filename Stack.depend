@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1629648888 source:c:\users\mohamed el-kholy\codeblock\stack\main.c
+	<stdio.h>
+	<stdlib.h>
+	"STD_TYPES.h"
+	"Stack_congif.h"
+	"Stack_interface.h"
+	"Check_Balanced.h"
+
+1629578210 c:\users\mohamed el-kholy\codeblock\stack\std_types.h
+
+1629581378 c:\users\mohamed el-kholy\codeblock\stack\stack.h
+
+1629579341 source:c:\users\mohamed el-kholy\codeblock\stack\stack.c
+	<stdio.h>
+	<stdlib.h>
+	"STD_TYPES.h"
+	"Stack.h"
+
+1629648941 source:c:\users\mohamed el-kholy\codeblock\stack\stack_progran.c
+	<stdio.h>
+	<stdlib.h>
+	"STD_TYPES.h"
+	"Stack_congif.h"
+	"Stack_interface.h"
+
+1629648814 c:\users\mohamed el-kholy\codeblock\stack\stack_congif.h
+
+1629649983 c:\users\mohamed el-kholy\codeblock\stack\stack_interface.h
+
+1629583000 c:\users\mohamed el-kholy\codeblock\stack\stack_progran.c
+	<stdio.h>
+	<stdlib.h>
+	"STD_TYPES.h"
+	"Stack_congif.h"
+	"Stack_interface.h"
+
+1629648821 source:c:\users\mohamed el-kholy\codeblock\stack\check_balanced.c
+	<stdio.h>
+	<stdlib.h>
+	"STD_TYPES.h"
+	"Stack_interface.h"
+	"Stack_congif.h"
+	"Check_Balanced.h"
+
+1629648811 c:\users\mohamed el-kholy\codeblock\stack\check_balanced.h
+
